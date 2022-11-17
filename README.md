@@ -9,7 +9,7 @@ The app is deployed with heroku on [https://sorting-visualizer-shubh1815.herokua
 ## Setting Up & Running the application
 
 ```
-  $ git clone https://github.com/Shubh1815/Sorting-Visualizer.git
+  $ git clone https://github.com/Shubh10am/SortingVisualizer.git
   $ cd sorting-visualizer
   $ npm install
   $ npm start
